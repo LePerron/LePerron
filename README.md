@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on programming.
 - 📫 How to reach me : I guess text me.
 - 😄 Pronouns: Programmer
-- ⚡ Fun fact: I'm a programming type of guy!
+- ⚡ Fun fact: I do programming..
 
 <!---
 LePerron/LePerron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
