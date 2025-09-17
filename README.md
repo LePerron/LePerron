@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LePerron
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning c#
+- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on programming.
 - 📫 How to reach me : I guess text me.
 - 😄 Pronouns: Programmer
